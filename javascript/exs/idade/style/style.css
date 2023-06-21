@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header {
+    text-align: center;
+}
+
+section {
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px black;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
